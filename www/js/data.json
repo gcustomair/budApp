@@ -1,0 +1,150 @@
+{
+  "calendar": [
+    {
+      "weekday": "Furnaces & Central Heating",
+      "title": "Welcome to the Custom-Air, Inc. phone app",
+      "description": "We will be updating the app periodically throughout the years in order to better educate and serve our very much appreciated customers.",
+      "schedule": [
+        {
+          "time": "Bryant",
+          "shortname": "Bryant_HVAC",
+          "artist": "www.bryant.com",
+          "room": "Custom-Air, Inc.: Number 1 seller",
+          "description": "We have installed Bryant from the start back in 1997, our opinion has always been very high for Bryant. A couple of years ago they hit number one on Consumer Reports and for good reasons. We have very little call backs with this manufacturer.",
+          "title": "Whatever it takes"
+        }, {
+          "time": "Goodman",
+          "shortname": "Goodman_HVAC",
+		  "artist": "www.goodmanmfg.com",
+          "name": "Goodman",
+          "room": "Custom-Air, Inc.: Number two seller",
+          "description": "Goodman has always been a contractor grade quality manufacturer and most of the time get a bad rep because of the shear volume of installs. They flew us down to Houston and showed us the build process, we were so impressed we started selling more and more.",          "title": "Thank goodness for Goodman"
+        },{
+          "time": "Don't forget to clean!",
+          "room": "RotoBrush System",
+          "description": "With your new system we can make the rest brand new too! We hook up a negative air machine and Rotobrush each and every duct so your new system is completely clean.",
+          "title": "Duct Cleaning"
+        }
+      ]
+    }, {
+      "weekday": "Refrigerated Air Conversion",
+      "title": "Get rid of that maintenance and humidity!",
+      "description": "The starting up and shuting down every year, the constant maintenance, the sticky humdity. These should be good enough reasons to get rid of that rust bucket on your roof. But the main reasons are; investment and comfort. Your home will increase in value more then the cost of the refrigeration and you'll be comfortable in your home.",
+      "schedule": [
+        {
+          "time": "Carrier",
+          "shortname": "Carrier_HVAC",
+          "artist": "www.carrier.com",
+          "room": "Custom-Air, Inc.: Number four seller",
+          "description": "The first few years we installed a mountain of Carrier equipment. The reason they are now lower on our preffered list are two fold; Carrier made some mistakes on certain units, they have since fixed the issues but we moved on for the most part. The other is price, they are a little more pricey then others of same quality.",
+          "title": "Turn to the experts"
+        },{
+          "time": "Thermostats",
+          "room": "Honeywell",
+          "description": "Get your free WIFI stat with any conversion. Details are on our conversion site at www.refrigeratedairconversion.com. Split systems, package units or ductless splits all qualify. You can program or control your temps from anywhere on your smart phone",
+          "title": "Free WIFI stats"
+        },{
+          "time": "Tempstar",
+          "shortname": "Tempstar_HVAC",
+          "artist": "www.tempstar.com",
+          "room": "Custom-Air, Inc.: Number seven seller",
+          "description": "If you need a quality unit with an affordable price Tempstar may be on your short list. They seem to keep up with the competition in regard to warranty and workmanship. The name is not well known so some research is sometimes in order for the end user. But that doesn't prevent us from installing them and we have pretty good lick with them so far.",
+          "title": "Quality you can feel"
+        }
+      ]
+    }, {
+      "weekday": "90+% furnaces",
+      "schedule": [
+        {
+          "time": "Heil",
+          "shortname": "Heil_HVAC",
+          "artist": "www.heil-hvac.com",
+          "room": "Custom-Air, Inc.: Number five seller",
+          "description": "Heil is part of the ICP products family (Interational Comfort Products). When we first started out we were not at all happy with this manufacturer. As the years went by they got better and better. At this point I we would not hesitate to put a Heil in our own homes. The attention to detail and superior parts that go inside are now top notch. The package units are especially nice with the cabinet metal thickness and blower housing quality",
+          "title": "Heating & Cooling Products"
+        },{
+          "time": "York",
+          "shortname": "York_HVAC",
+          "artist": "www.york.com",
+          "room": "Custom-Air, Inc.: Number six seller",
+          "description": "Here at Custom-Air we are not really sure why York was on Consumers Report in last place but we have a good idea. We spoke with a distributor and they said it was due to a huge installation job that was done wrong and the problem has since been fixed. Whatever the reason we have installed several systems without a hitch. Of course when things are installed correctly not much goes wrong. We never have a bad install that gives the manufacturer a bad name.",
+          "title": "Install Confidence"
+        }
+      ]
+    }, {
+      "weekday": "Ductless Split Systems",
+      "schedule": [
+        {
+          "time": "Mitsubishi",
+          "shortname": "Mitsubishi_HVAC",
+          "artist": "www.mitsubishicomfort.com",
+          "room": "Custom-Air, Inc.: Number two ductless seller",
+          "description": "From server rooms to homes that have no space for ducts these are the choice. Many homes and business structures benefit from this technology. Not only are these th choice when you can't install duct work you can get very high SEER ratings. The effeiciency of these systems can acheive in to the 30's for SEER rating. All with a very small footprint. So if you are short on space ask us about the mini ductless split systems.",
+          "title": "Ductless systems"
+        },{
+          "time": "LG",
+          "shortname": "LG_HVAC",
+          "artist": "www.lg.com",
+          "room": "Custom-Air, Inc.: Number one ductless seller",
+          "description": "LG is one that we have installed 100's without going back! From the onset we have been extremely impressed with LG. The elegant look and quality is really second only to Mitsubishi. The reason LG is first on our install list is price! LG is just as good as Mitsubishi with a lower price tag, simple as that!",
+          "title": "Lifes Good"
+        },{
+          "time": "RUUD",
+          "shortname": "Ruud_HVAC",
+          "artist": "www.ruud",
+          "room": "Custom-Air, Inc.: Number eight seller",
+          "description": "We honestly never even considered Ruud until 2015 when we went into the dealership for something else and saw the new condensing unit. It was beefy and had a indestructable plastic bottom that was very impressive. Now that a few installs are under our belt, this is another one we would not hesitate to put in our own homes. Although it comes from a family we really do not like at all (Rheem) they are far superior.",
+          "title": "Rely on Ruud"
+        }
+      ]
+    }
+  ],
+  "artists": [
+    {
+      "bio": "Bryant is a United Technologies product as is Carrier. They can be compared to something like GMC and Chevrolet. Same production lines and same owners. In 1955 Carrier merged with Affiliated Gas Equipment, Inc., which owned the Bryant Heater Co., Day & Night Water Heater Co., and Payne Furnace & Supply Co",
+      "shortname": "Bryant_HVAC",
+      "name": "Bryant",
+      "reknown": "Whatever it takes"
+    },{
+      "bio": "Carrier is a brand of United Technologies Corporation Building & Industrial Systems, based in Farmington, Connecticut. Carrier was founded in 1915 as an independent, American company, manufacturing and distributing heating, ventilating and air conditioning (HVAC) systems, as well as commercial refrigeration and food service equipment. About 2012, it was a $12.5 billion company with over 43,000 employees serving customers in 170 countries on six continents",
+      "shortname": "Carrier_HVAC",
+      "name": "Carrier",
+      "reknown": "Turn to the experts"
+    },{
+      "bio": "Goodman Global is a member of the Daikin Group, the world's largest manufacturer of HVAC products and systems. The company manufactures residential and light commercial heating and cooling systems. Goodman operates 4 major factories; two are located in Houston TX, one in Fayetteville TN and one in Dayton TN. Current major manufactured products are: residential split air conditioners and furnace, packaged terminal air conditioners, residential and light commercial packaged AC (rooftops), VRV/VRF systems and flex ducting.",
+      "shortname": "Goodman_HVAC",
+      "name": "Goodman Global",
+      "reknown": "Thank goodness for Goodman"
+    },{
+      "bio": "York International is the final name of a company started in York, Pennsylvania in 1874, which built the York brand of refrigeration and HVAC equipment. The York brand is now owned (since 2005) by Johnson Controls. Its early-era product line included steam engines, turbines, washing machines, and farm machinery. Its interests grew in commercial ice making plant and commercial refrigeration plant for food processing and commercial cold storage; these eventually developed into its main line of business from the 1890s through the 1920s.",
+      "shortname": "York_HVAC",
+      "name": "York International",
+      "reknown": "Install Confidence"
+    },{
+      "bio": "ICP is a United Technologies subsidiary (and part of its Carrier operating unit). ICP makes oil and gas furnaces, heat pumps, and central air-conditioning systems for residential and commercial customers.[1] It manufacturers, markets, and sells residential heating and cooling systems under the Arcoaire, Comfortmaker, Day & Night, Heil, KeepRite, Lincoln, and Tempstar brands; its commercial units, with up to 25 tons of cooling capacity, are sold under the ICP Commercial brand.",
+      "shortname": "Tempstar_HVAC",
+      "name": "Tempstar",
+      "reknown": "Quality you can feel"
+    },{
+      "bio": "Mitsubishi Electric United States (officially Mitsubishi Electric US Holdings, Inc.) is the principal subsidiary of Mitsubishi Electric Corporation in the United States. It is headquartered in Cypress, California and was incorporated in 2002.[1] and its affiliates, have roughly 50 locations throughout North America with approximately 4,000 employees. Its five main affiliate companies are: Mitsubishi Electric Power Products, Inc.; Mitsubishi Electric US, Inc.; Mitsubishi Electric Automotive America, Inc.; Mitsubishi Electric Automation. Inc.; and Mitsubishi Electric Research Laboratories, Inc",
+      "shortname": "Mitsubishi_HVAC",
+      "name": "Mitsubishi Electric",
+      "reknown": "Changes for the better"
+    },{
+      "bio": "LG Corp. established as Lak-Hui Chemical Industrial Corp. in 1947.[3] In 1952, Lak-Hui (pronounced Lucky, currently LG Chem) became the first Korean company to enter the plastics industry.In 1995, to compete better in the Western market, the Lucky-Goldstar Corporation was renamed LG. The company also associates the letters LG with the company's tagline Life's Good. Since 2009, LG has owned the domain name LG.com.",
+      "shortname": "LG_HVAC",
+      "name": "LG",
+      "reknown": "Life's Good"
+    },{
+      "bio": "ICP is a United Technologies subsidiary (and part of its Carrier operating unit). ICP makes oil and gas furnaces, heat pumps, and central air-conditioning systems for residential and commercial customers.[1] It manufacturers, markets, and sells residential heating and cooling systems under the Arcoaire, Comfortmaker, Day & Night, Heil, KeepRite, Lincoln, and Tempstar brands; its commercial units, with up to 25 tons of cooling capacity, are sold under the ICP Commercial brand. ",
+      "shortname": "Heil_HVAC",
+      "name": "Heil",
+      "reknown": "Heil heating and cooling"
+    },{
+      "bio": "Rheem Manufacturing Company is an American privately held manufacturer that produces residential and commercial water heaters and boilers, as well as heating, ventilating and air conditioning (HVAC) equipment. The company also produces and sells products under the Ruud brand name. It is a subsidiary of Paloma Industries.[2] What became Rheem started in 1925 as a supplier of packaging to the petroleum industry, and is currently headquartered in Atlanta, Georgia in the United States.",
+      "shortname": "Ruud_HVAC",
+      "name": "Ruud",
+      "reknown": "Rely On Ruud"
+    }
+  ]
+}
